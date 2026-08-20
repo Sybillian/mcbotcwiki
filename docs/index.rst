@@ -1,15 +1,10 @@
-.. include:: ../README.rst
+Home
+======
+Welcome to the wiki for Sybillian's **Blood on the Clocktower modpack for Minecraft**!
 
-Welcome to Lumache's documentation!
-===================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Using the sidebar to your left, you can navigate installation and Storytelling instructions for the pack.
+What this wiki will not do is teach you how to play the game from a rules standpoint;
+you can check out the Rulebook as published by The Pandemonium Institute for that.
 
 .. note::
 
@@ -19,7 +14,6 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
 
-   Home <self>
-   usage
-   api
+   roadmap
