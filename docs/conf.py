@@ -51,7 +51,7 @@ epub_show_urls = "footnote"
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 # -- Options for HTML output
-html_theme_path = ['_themes']
+html_theme_path = ['source/_themes']
 html_theme = 'furo'
 html_logo = 'logo.png'
 html_theme_options = {
