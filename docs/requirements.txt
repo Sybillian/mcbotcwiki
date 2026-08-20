@@ -5,6 +5,7 @@
 #    pip-compile docs/requirements.in
 #
 furo
+Pillow
 alabaster==0.7.14
     # via sphinx
 babel==2.13
